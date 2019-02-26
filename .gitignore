@@ -54,3 +54,9 @@ backup
 
 # nohup output
 nohup.out
+
+# MacOS    
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
